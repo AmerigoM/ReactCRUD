@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Learn how to code in Swift - Day 204",
+      "description": "iOS development: an adventure",
+      "id": 2
+    },
+    {
+      "title": "Hearthstone: the final challenge",
+      "description": "Final Tournament Challenge",
+      "userId": "102412325391347503233",
+      "id": 3
+    },
+    {
+      "title": "Italian politics and more",
+      "description": "A videoblog on italian politics",
+      "userId": "102412325391347503237",
+      "id": 4
+    },
+    {
+      "title": "eSport",
+      "description": "Let's discuss about the new HTC winner.",
+      "userId": "102412325391347503237",
+      "id": 5
+    }
+  ]
+}
